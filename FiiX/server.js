@@ -11,9 +11,9 @@ setInterval(() => {
 
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const moment = require("moment"); //////     DEV FiiX   //////
+const moment = require("moment"); //////     
 const zalgo = require("zalgolize");
-const math = require("math-expression-evaluator"); //////      DEV FiiX //////
+const math = require("math-expression-evaluator"); //////     
 const figlet = require("figlet");
 const fs = require("fs");
 const ms = require("ms");
@@ -1735,4 +1735,4 @@ client.on("ready", async () => {
 
 cleint.login.("تــــــۆکـــیـــن لێرە دانـــــــێ")
 ); /////
-////Coded by FiiX/////
+////Coded by Alven////
